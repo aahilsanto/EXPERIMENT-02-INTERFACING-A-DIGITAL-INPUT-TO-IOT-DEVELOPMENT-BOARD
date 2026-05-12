@@ -1,13 +1,13 @@
 # EXPERIMENT-02-INTERFACING-A-DIGITAL-INPUT-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:**
+**DATE:**12-05-2026
 
-**NAME:**
+**NAME:**Ahil Santo A
 
-**ROLL NO:**
+**ROLL NO:**212224040018
 
-**DEPARTMENT:**
+**DEPARTMENT:**Computer Science and Engineering
 
 ## Aim
 
